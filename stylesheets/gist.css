@@ -1,0 +1,9 @@
+.gist .gist-data {
+	border-bottom:	initial;
+	margin-bottom:	100px;
+}
+
+.gist .gist-file {
+	border:	initial;
+	border-bottom:	initial;
+}
