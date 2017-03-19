@@ -1,7 +1,6 @@
 ---
 title: j!
 subtitle: Don't even think of reading this blog without a beer in your hand	
-author: narutaro
 ---
 ## Posts
 - `Feb. 12, 2017` [日本で最高のビールを探す旅](2b7c5694ff06fbacf93c36ec5dfc7914)
